@@ -15,7 +15,7 @@ public class Sum {
 //		System.out.println(s1+s2);
 		a = Integer.parseInt(s1);
 		b = Integer.parseInt(s2);
-		System.out.printf("%dì™€ %dì˜ í•©ì€ %dì…ë‹ˆë‹¤",a,b,a+b);
+		System.out.printf("%d¿Í %dÀÇ ÇÕÀº %dÀÔ´Ï´Ù",a,b,a+b);
 	}
 
 }
